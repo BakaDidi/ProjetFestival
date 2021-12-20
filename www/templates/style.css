@@ -1,0 +1,7 @@
+.no-resize {
+    resize: none; !important;
+}
+
+.error{
+    color: #a52834; !important;
+}
